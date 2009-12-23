@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoIntent</string>
+    <string name="main_btn_image">Image Intent Demo</string>
+</resources>
